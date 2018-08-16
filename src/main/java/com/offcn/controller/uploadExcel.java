@@ -113,8 +113,17 @@ public class uploadExcel {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-		
-		
+				
 	}
+
+
+/*增加新的方法*/
+
+public void get(){
+	
+	
+	
+  }
 }
+
+          
