@@ -117,7 +117,7 @@ public class uploadExcel {
 	}
 
 
-/*小王增加新的方法*/
+/*小李增加新的方法*/
 
 public void get(){
 	
